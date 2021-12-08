@@ -1,0 +1,81 @@
+#navbar {
+  padding: 30px;
+  margin: 30px;
+}
+.about {
+  display: flex;
+  background: #346cc7;
+  color: white;
+  height: 80vh;
+}
+.about2 {
+  padding: 30px;
+}
+.about1 {
+  padding: 50px;
+}
+.home {
+  background: #0a0a0a;
+  height: 10vh;
+  color: white;
+}
+.home1 {
+  padding: 20px;
+}
+.Brand {
+  background: #d6d2d2;
+  height: 20vh;
+  text-align: center;
+}
+.Brand h4 {
+  text-align: center;
+  padding: 40px;
+}
+.protect {
+  padding: 20px;
+}
+
+.arrow {
+  font-size: large;
+}
+
+.brands {
+  text-align: center;
+  padding: 20px;
+  margin: 30px;
+}
+.solo {
+  text-align: center;
+}
+.solution {
+  padding: 50px;
+  margin: 30px;
+}
+#subscrib {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.item {
+  background: #f4f4f4;
+  border: #ccc solid 10px;
+  padding: 1rem;
+  text-align: center;
+  margin: 2rem;
+  flex-basis: 200px;
+}
+.item1 {
+  background: blue;
+  color: white;
+  border: black;
+}
+.item2 {
+  background: #eb34c6;
+  color: white;
+  border: green;
+}
+.item3 {
+  background: black;
+  color: green;
+  border: red;
+}
